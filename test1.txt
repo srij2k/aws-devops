@@ -1,0 +1,6 @@
+git init 
+cd ProjectA ( switch into the project direcotry in which git init command was ran )
+touch tes.txt ( creates new empty files )
+git status -- to check changes made
+git add . ( we can give the individual file names OR just give dot (.) to stage all the changes in the project )
+git commit -m "added files"
